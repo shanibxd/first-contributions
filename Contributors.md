@@ -1,5 +1,6 @@
 # Contributors
 - [Jagriti Tiwari](https://github.com/jagriti-codes)
+- [1Burhanuddin](https://github.com/1Burhanuddin)
 - Harshit Prajapati
 - [Shanib XD](https://github.com/shanibxd)
 - [Sumon](https://github.com/sumon3235)
@@ -1412,3 +1413,4 @@ varshini
 - [TobyMint](https://github.com/TobyMint)
 - [IcedSakana](https://github.com/IcedSakana
 - - Muhammad Talha Hakeem
+- [Ishani Nair](https://github.com/GiornoGiovanna12345)
